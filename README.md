@@ -81,7 +81,7 @@ python dat2anim.py in.dat
 # The "in.dat" frames will be printed 1 per second (default FPS).
 ```
 
-<img src="./screenshot/example.png">
+<img src="./screenshot/example.gif">
 
 An example with all parameters in use:
 
