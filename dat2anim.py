@@ -118,7 +118,7 @@ class Screen():
         if frame:
             surf = pygame.display.get_surface()
             tw, th = FRAMES['tilesize']
-            r, c = FRAMES['frameunits']
+            c, r = FRAMES['frameunits']
             for i in range(0, r):
                 for j in range(0, c):
                     tile = FRAMES['tileset'][frame[i][j]]
