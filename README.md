@@ -68,7 +68,7 @@ options:
   --fps FPS   Number of frames per second. (default = 1 fps)
   -s          Save the rendered frames in files. A directory will be created containing the rendered frames.
   --spr SPR   Define a path for sprites directory. Each image on this dir may be a png formatted as <id>.png. (e.g. "0.png") for id=0. Make sure
-              that all sprites that you'll use has the same height and width. (default = /home/vinicius/Pessoal/dat2anim/sprites)
+              that all sprites that you'll use has the same height and width. (default = /path/to/dat2anim/sprites)
 ```
 
 ### Running the "in.dat" example:
@@ -88,7 +88,7 @@ An example with all parameters in use:
 ```bash
 python dat2anim.py --fps 4 --spr ./path/to/sprites2 -s in.dat
 
-# The "in.dat" frames will be printed 4 per second (default FPS).
+# The "in.dat" frames will be printed 4 per second.
 # The spriteset will be loaded from "./path/to/sprites2"
 # The frames will be saved in a directory as png images locally
 ```
