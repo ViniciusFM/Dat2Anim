@@ -118,5 +118,5 @@ Maciel, V. F. (2024). Dat2Anim v1.0. Retrieved from https://github.com/ViniciusF
 ### ABNT
 
 ```
-MACIEL, V. F. Dat2Anim v1.0. 2024. Available: <https://github.com/ViniciusFM/Dat2Anim>. Acessado em: 22 maio 2024.
+MACIEL, V. F. Dat2Anim v1.0. 2024. Disponível em: <https://github.com/ViniciusFM/Dat2Anim>. Acessado em: 22 maio 2024.
 ```
