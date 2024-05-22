@@ -93,7 +93,7 @@ python dat2anim.py --fps 4 --spr ./path/to/sprites2 -s in.dat
 # The frames will be saved in a directory as png images locally
 ```
 
-## Cite this repository
+## Citing this repository
 
 If you write a scientific paper or describe your project involving Dat2Anim on a web page, I would greatly appreciate it if you could add a reference to Dat2Anim. To make this simpler, I provide here some citation examples, including BibTex, APA and ABNT entries that you can use in your own documents:
 
