@@ -92,3 +92,31 @@ python dat2anim.py --fps 4 --spr ./path/to/sprites2 -s in.dat
 # The spriteset will be loaded from "./path/to/sprites2"
 # The frames will be saved in a directory as png images locally
 ```
+
+## Cite this repository
+
+If you write a scientific paper or describe your project involving Dat2Anim on a web page, I would greatly appreciate it if you could add a reference to Dat2Anim. To make this simpler, I provide here some citation examples, including BibTex, APA and ABNT entries that you can use in your own documents:
+
+### BibTex
+
+```bib
+@misc{maciel2024dat2anim,
+    author = {Maciel, Vinícius Fonseca},
+    title = {Dat2Anim v1.0},
+    year = 2024,
+    url = {https://github.com/ViniciusFM/Dat2Anim},
+    urlaccessdate = {22 maio 2024}
+}
+```
+
+### APA
+
+```
+Maciel, V. F. (2024). Dat2Anim v1.0. Retrieved from https://github.com/ViniciusFM/Dat2Anim
+```
+
+### ABNT
+
+```
+MACIEL, V. F. Dat2Anim v1.0. 2024. Available: <https://github.com/ViniciusFM/Dat2Anim>. Acessado em: 22 maio 2024.
+```
